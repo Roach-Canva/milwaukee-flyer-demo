@@ -1,0 +1,15 @@
+zone,role,sku,name,price,was_price,value,image_url
+z1_buy,buy,2904-22,M18 FUEL™ Hammer Drill Kit,329,,,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2904-22.png
+z1_receive,free,48-11-1850,M18™ XC5.0 Battery,,,169,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/48-11-1850.png
+z2_buy,buy,2868-22HD,"M18 FUEL™ 1"" D-Handle Impact Wrench Kit",1499,,,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2868-22HD.png
+z2_buy,buy,2869-22HD,"M18 FUEL™ 1"" Ext. Anvil Impact Wrench Kit",1499,,,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2869-22HD.png
+z2_receive,free,0821-20,"M18™ 18"" Fan (Tool Only)",,,269,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/0821-20.png
+z3_buy,buy,2967-22,"M18 FUEL™ 1/2"" Impact Wrench Kit",499,,,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2967-22.png
+z3_receive,free,48-11-1850R,M18™ XC5.0 Resistant Battery,,,209,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/48-11-1850R.png
+z3_receive,free,49-66-7018,"8PC 3/4"" SAE Deep Socket Set",,,150,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/49-66-7018.png
+z3_receive,free,49-66-7020,"8PC 3/4"" Metric Deep Socket Set",,,150,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/49-66-7020.png
+z3_receive,free,49-66-6802,"15PC 1/2"" SAE PACKOUT™ Socket Set",,,180,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/49-66-6802.png
+z3_receive,free,49-66-6803,"16PC 1/2"" Metric PACKOUT™ Socket Set",,,180,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/49-66-6803.png
+z4_nlp,nlp,3697-27,M18 FUEL™ 7-Tool Combo Kit,949,1249,,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/3697-27.png
+z4_nlp,nlp,3697-22,M18 FUEL™ 2-Tool Combo Kit,349,399,,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/3697-22.png
+z4_nlp,nlp,2967-22GG,M18 FUEL™ Impact Wrench & Grease Gun Kit,499,895,,https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2967-22GG.png

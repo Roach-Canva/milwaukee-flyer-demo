@@ -1,0 +1,153 @@
+{
+  "partner": {
+    "name": "Jonestown Ag Supply",
+    "logo_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/logos/jonestown-ag-supply.png"
+  },
+  "promo": {
+    "start": "OCTOBER 7th, 2026",
+    "end": "OCTOBER 29th, 2026",
+    "job_number": "MT26-9871"
+  },
+  "products": [
+    {
+      "zone": "z1_buy",
+      "role": "buy",
+      "sku": "2904-22",
+      "name": "M18 FUEL™ Hammer Drill Kit",
+      "price": 329,
+      "was_price": null,
+      "value": null,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2904-22.png"
+    },
+    {
+      "zone": "z1_receive",
+      "role": "free",
+      "sku": "48-11-1850",
+      "name": "M18™ XC5.0 Battery",
+      "price": null,
+      "was_price": null,
+      "value": 169,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/48-11-1850.png"
+    },
+    {
+      "zone": "z2_buy",
+      "role": "buy",
+      "sku": "2868-22HD",
+      "name": "M18 FUEL™ 1\" D-Handle Impact Wrench Kit",
+      "price": 1499,
+      "was_price": null,
+      "value": null,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2868-22HD.png"
+    },
+    {
+      "zone": "z2_buy",
+      "role": "buy",
+      "sku": "2869-22HD",
+      "name": "M18 FUEL™ 1\" Ext. Anvil Impact Wrench Kit",
+      "price": 1499,
+      "was_price": null,
+      "value": null,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2869-22HD.png"
+    },
+    {
+      "zone": "z2_receive",
+      "role": "free",
+      "sku": "0821-20",
+      "name": "M18™ 18\" Fan (Tool Only)",
+      "price": null,
+      "was_price": null,
+      "value": 269,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/0821-20.png"
+    },
+    {
+      "zone": "z3_buy",
+      "role": "buy",
+      "sku": "2967-22",
+      "name": "M18 FUEL™ 1/2\" Impact Wrench Kit",
+      "price": 499,
+      "was_price": null,
+      "value": null,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2967-22.png"
+    },
+    {
+      "zone": "z3_receive",
+      "role": "free",
+      "sku": "48-11-1850R",
+      "name": "M18™ XC5.0 Resistant Battery",
+      "price": null,
+      "was_price": null,
+      "value": 209,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/48-11-1850R.png"
+    },
+    {
+      "zone": "z3_receive",
+      "role": "free",
+      "sku": "49-66-7018",
+      "name": "8PC 3/4\" SAE Deep Socket Set",
+      "price": null,
+      "was_price": null,
+      "value": 150,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/49-66-7018.png"
+    },
+    {
+      "zone": "z3_receive",
+      "role": "free",
+      "sku": "49-66-7020",
+      "name": "8PC 3/4\" Metric Deep Socket Set",
+      "price": null,
+      "was_price": null,
+      "value": 150,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/49-66-7020.png"
+    },
+    {
+      "zone": "z3_receive",
+      "role": "free",
+      "sku": "49-66-6802",
+      "name": "15PC 1/2\" SAE PACKOUT™ Socket Set",
+      "price": null,
+      "was_price": null,
+      "value": 180,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/49-66-6802.png"
+    },
+    {
+      "zone": "z3_receive",
+      "role": "free",
+      "sku": "49-66-6803",
+      "name": "16PC 1/2\" Metric PACKOUT™ Socket Set",
+      "price": null,
+      "was_price": null,
+      "value": 180,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/49-66-6803.png"
+    },
+    {
+      "zone": "z4_nlp",
+      "role": "nlp",
+      "sku": "3697-27",
+      "name": "M18 FUEL™ 7-Tool Combo Kit",
+      "price": 949,
+      "was_price": 1249,
+      "value": null,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/3697-27.png"
+    },
+    {
+      "zone": "z4_nlp",
+      "role": "nlp",
+      "sku": "3697-22",
+      "name": "M18 FUEL™ 2-Tool Combo Kit",
+      "price": 349,
+      "was_price": 399,
+      "value": null,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/3697-22.png"
+    },
+    {
+      "zone": "z4_nlp",
+      "role": "nlp",
+      "sku": "2967-22GG",
+      "name": "M18 FUEL™ Impact Wrench & Grease Gun Kit",
+      "price": 499,
+      "was_price": 895,
+      "value": null,
+      "image_url": "https://raw.githubusercontent.com/Roach-Canva/milwaukee-flyer-demo/main/products/2967-22GG.png"
+    }
+  ]
+}
